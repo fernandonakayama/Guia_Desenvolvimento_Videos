@@ -1,6 +1,7 @@
 <p align="center"><img src="https://image.ibb.co/mJP5BL/healthsense-logo.png" alt="dados_originais" border="0"></p> 
 METODOLOGIA DE DESENVOLVIMENTO PARA O VÍDEO “THE HEALTHSENSE PROJECT - DATA AND FAULT INJECTION ATTACKS IN WEARABLE DEVICES”.
 
+
 O vídeo em questão foi o primeiro desenvolvido pelos alunos Fernando Nakayama  e Paulo Lenz durante o desenvolvimento do Projeto Healthsense - https://www.healthsenseproject.net/ , e este documento tem como objetivo descrever as etapas de o desenvolvimento.
 
 Do conceito até o produto final o desenvolvimento do vídeo nos tomou cerca de 2 dias, considerando planejamento e execução.
