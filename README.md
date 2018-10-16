@@ -4,7 +4,7 @@ O vídeo em questão foi o primeiro desenvolvido pelos alunos Fernando Nakayama 
 
 Do conceito até o produto final o desenvolvimento do vídeo nos tomou cerca de 2 dias, considerando planejamento e execução.
 
-**1- Definição do tema** – O tema foi proposto pela Profa. Michele Nogueira e basicamente era a descrição das nossas atividades dentro do projeto. Estávamos envolvidos com a avaliação dos sensores, conforme informado no vídeo. Consideramos o vídeo apenas demostrativo, sem a apresentação de resultados ou metodologias.
+**1- Definição do tema** – O tema foi proposto pela Professora Michele Nogueira e basicamente era a descrição das nossas atividades dentro do projeto. Estávamos envolvidos com a avaliação dos sensores, conforme informado no vídeo. Consideramos o vídeo apenas demostrativo, sem a apresentação de resultados ou metodologias.
 
 **2- Definição do tempo** – O tempo estimado era um minuto e trinta segundos, porém precisamos de aproximadamente dois minutos para inserir todas as informações básicas. Alguns segundos foram adicionados na edição.
 
