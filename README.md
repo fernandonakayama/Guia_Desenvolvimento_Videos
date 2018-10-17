@@ -12,7 +12,7 @@ Do conceito até o produto final o desenvolvimento do vídeo nos tomou cerca de 
 
 **3- Criação do roteiro** – Cada um dos alunos envolvidos escreveu sua parte do roteiro, apontando as atividades primárias no projeto. Pela falta de familiaridade com a língua Inglesa, foi utilizado um notebook como teleprompter.
 
-**4- Locação** – Foi escolhida e reservada a sala de reuniões pela disponibilidade de televisão para plano de fundo, acesso à Internet, e demais recursos (mesa, cadeira, etc). Em outras oportunidades seria importante avaliar a iluminação do local e reforçar a iluminação artificial se necessário.
+**4- Locação** – Foi escolhida e reservada a sala de reuniões pela disponibilidade de televisão para plano de fundo, acesso à Internet, e demais recursos (mesa, cadeira, etc). Em outras oportunidades seria importante avaliar a iluminação do local e reforçar a iluminação artificial se necessário. A televisão foi utilizada para que o site do projeto pudesse ficar sendo exibido no plano de fundo, outras possibilidades seria um painel expositivo (existe um cavalete grande na sala de reuniões), e em último caso uma parede de cor neutra no fundo. O tempo total para executar as tomadas foi de aproximadamente duas horas. 
 
 **5- Equipamento** – Para realizar a filmagem foram utilizados:
     • Um smartphone
